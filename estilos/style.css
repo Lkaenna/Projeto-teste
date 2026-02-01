@@ -8,6 +8,16 @@ body{
     background-color: rgb(132, 70, 191);
 }
 
+h1 {
+    font-size: 3cm;
+    color: brown;
+}
+
+img.lado {
+    float: right;
+    width: 200px ;
+}
+
 main{
     background-color: beige;
     width: 400px;
