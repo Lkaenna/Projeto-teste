@@ -16,3 +16,12 @@ main{
     box-shadow: 3px 3px 5px rgb(150, 149, 149);
 }
 
+h1{
+    font-size: 3cm;
+    color: white;
+}
+
+img.lado{
+    float: right;
+    width: 300px;
+}   
